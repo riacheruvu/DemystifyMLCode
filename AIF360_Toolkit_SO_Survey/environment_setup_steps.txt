@@ -1,0 +1,7 @@
+Steps for reproducing environment for running code (assuming the user has the Anaconda distribution):
+
+Please run the following command in Anaconda prompt:
+
+conda env create -f environment.yml
+
+Afterwards, please open jupyter notebook using the "jupyter notebook" command in Anaconda Prompt as normal, and the code can be executed.
